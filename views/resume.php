@@ -2,9 +2,9 @@
 
 	<div class="container">
 	
-		<embed src="http://jonathan-louis-com.stackstaging.com/portfolio/Louis_Jonathan_CS.pdf" width="100%" height="700px" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+		<embed src="http://jonathan-louis.github.io/Louis_Jonathan_CS.pdf" width="100%" height="700px" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 
-		<a href="http://jonathan-louis-com.stackstaging.com/portfolio/Louis_Jonathan_CS.docx" download>Download My Resume Here</a>
+		<a href="http://jonathan-louis.github.io/Louis_Jonathan_CS.docx" download>Download My Resume Here</a>
 	
 	</div>
 
